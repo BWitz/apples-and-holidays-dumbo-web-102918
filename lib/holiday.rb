@@ -67,7 +67,8 @@ holiday_hash.each do |a, b|
   b.each do |c, d|
      puts "#{c.to_s.split('_').map {|w| w.capitalize }.join(' ')}: #{d.join(", ")}"
 end
-
+end 
+end
 
 
 
