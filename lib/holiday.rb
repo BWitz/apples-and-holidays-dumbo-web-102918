@@ -50,7 +50,6 @@ holiday_hash[:winter].collect do |quarter, supplies|
   winter_supplies >> supplies
 end
 end
-winter_supplies
 end
 
 
